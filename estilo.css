@@ -231,6 +231,12 @@ html{
     text-align: center;
     padding: 20px 0;
 }
+.portfolio h3{
+    color: #fff;
+}
+.portfolio p{
+    color: #fff;
+}
 .portfolio .galeria{
     display: flex;
     flex-wrap: wrap;
@@ -276,6 +282,7 @@ html{
 .contenedor-intereses .interes span {
     font-style: italic;
 }
+
 
 /* SECCION FOOTER */
 
