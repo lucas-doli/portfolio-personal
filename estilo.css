@@ -299,6 +299,9 @@ footer{
 footer .redes{
     margin-bottom: 20px;
 }
+footer .redes a:hover{
+    background-color: #71277E;
+}
 footer .redes a {
     color: #D0D5CF;
     display: inline-block;
