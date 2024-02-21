@@ -7,7 +7,7 @@
     padding: 0;
 }
 html{
-    /* me permite deslizar cuando hago clic en los links del menu */
+    
     scroll-behavior: smooth;
 }
 
@@ -116,6 +116,9 @@ html{
 .inicio .contenido-banner .redes a:hover{
     background-color: #71277E;
 }
+
+/* SECCION SOBRE MI */
+
 .sobremi{
     background-color: #1e2326;
     color: #D0D5CF;
